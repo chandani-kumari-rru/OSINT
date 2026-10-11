@@ -25,9 +25,10 @@
 | **Recon-ng** | DNS, WHOIS, Subdomains | Information gathering |
 
 ### OSINT Website
-| Website | Keywords | Use Case |
+| Website | Coupons | Use Case |
 |---|---|---|
-|[LeakPeek](https://leakpeek.com/)||Leak Check|
+|[LeakPeek](https://leakpeek.com/)|Free|Leak Check|
+|[IntelBase](https://intelbase.is/dashboard/email-lookup)|TEST100|Paid Tool|
 
 
 
