@@ -33,7 +33,7 @@
 Types of Attack
 | No. | Attack | Description |
 |---|---|---|
-|1|Phishing Attack|Using Zphisher to create a Fake Login Page|
+|1|Phishing Attack|Using `Zphisher` to create a Fake Login Page|
 |2|Keylogging|Malware records your keystocks (username,password,otp) & sends them to the attacker.|
 |3|Brute Force Attack|Attacker tries many password combinations automatically until the correct one is found.|
 |4|Social Engineering|Attacker manipulate you psychologically to get your login details, otp or account access.|
