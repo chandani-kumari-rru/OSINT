@@ -30,6 +30,16 @@
 |[LeakPeek](https://leakpeek.com/)|Free|Leak Check|
 |[IntelBase](https://intelbase.is/dashboard/email-lookup)|TEST100|Paid Tool|
 
+Types of Attack
+| No. | Attack | Description |
+|---|---|---|
+|1|Phishing Attack|Fake login pages, messages or emails are used to trick you into entering your credential.|
+|2|Keylogging|Malware records your keystocks (username,password,otp) & sends them to the attacker.|
+|3|Brute Force Attack|Attacker tries many password combinations automatically until the correct one is found.|
+|4|Social Engineering|Attacker manipulate you psychologically to get your login details, otp or account access.|
+|5|Session Hijacking|Attackers real or misuse your active login session token|
+|6|Sql Injection||
+
 ### Popular Malware
 | Tool | Use Case |
 |---|---|
