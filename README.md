@@ -38,7 +38,7 @@
 |---|---|
 |[CERT-IN](https://www.cert-in.org.in/)|Regular checkout for new PHISHING ATTACK|
 |[I4C by MHA](https://i4c.mha.gov.in/)|Regular checkout for new PHISHING ATTACK|
-|[ISEA by MeitY](https://www.isea.gov.in/)|Regular conducting workshop|
+|[ISEA by MeitY](https://www.isea.gov.in/)|Regular conducting CYBER AWARENESS & WORKSHOP|
 
 
 
