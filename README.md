@@ -36,8 +36,8 @@
 
 |Indian Cyber Triage Authority|Description|
 |---|---|
-|[CERT-IN](https://www.cert-in.org.in/)|Regular checkout for new ATTACK TECHNIQUE|
-|[I4C by MHA](https://i4c.mha.gov.in/)|Regular checkout for new ATTACK TECHNIQUE|
+|[CERT-IN](https://www.cert-in.org.in/)|Regular checkout for Latest ATTACKING TECHNIQUE|
+|[I4C by MHA](https://i4c.mha.gov.in/)|Regular checkout for Latest ATTACKING TECHNIQUE|
 |[ISEA by MeitY](https://www.isea.gov.in/)|Regular conducting CYBER AWARENESS & WORKSHOP|
 
 
