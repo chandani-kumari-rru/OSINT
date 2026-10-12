@@ -66,7 +66,7 @@ Types of Attack
 
 ### YARA for Malware Detection
 - YARA is developed by VirusTotal.
-- Known Malware Scanning through [VirusTotal Scan](https://www.virustotal.com/gui/home/upload).
+- Sample Malware([MalwareBazaar](https://bazaar.abuse.ch/browse/)) Scanning through [VirusTotal Scan](https://www.virustotal.com/gui/home/upload).
 - 
 
 
