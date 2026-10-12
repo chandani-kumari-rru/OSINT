@@ -9,8 +9,8 @@
   - Search Engine Reconnaissance
   - Social Media Monitoring
   - Metadata Analysis
-    - Digital files may contain metadata such as author name, location, timestamps, device
-information, software details, and file properties. If this information is not reviewed before
+    - Digital files may contain metadata such as `author name`, `location`, `timestamps`, `device
+information`, `software details`, and `file properties`. If this information is not reviewed before
 sharing a file, it may unintentionally expose private information.
     - To reduce metadata-related privacy risks:
       - Remove unnecessary personal metadata before sharing files.
@@ -66,6 +66,7 @@ Types of Attack
 
 ### YARA for Malware Detection
 - YARA is developed by VirusTotal.
+- Known Malware Scanning through [VirusTotal Scan](https://www.virustotal.com/gui/home/upload).
 - 
 
 
