@@ -43,13 +43,6 @@
 
 
 
-
-
-
-
-
-
-
 Types of Attack
 
 | No. | Attack | Description |
@@ -60,6 +53,13 @@ Types of Attack
 |4|Social Engineering|Attacker manipulate you psychologically to get your login details, otp or account access.|
 |5|Session Hijacking|Attackers real or misuse your active login session token|
 |6|Sql Injection||
+
+### YARA for Malware Detection
+- YARA is developed by VirusTotal.
+- 
+
+
+
 
 ### Popular Malware
 | Tool | Use Case |
