@@ -9,6 +9,16 @@
   - Search Engine Reconnaissance
   - Social Media Monitoring
   - Metadata Analysis
+    - Digital files may contain metadata such as author name, location, timestamps, device
+information, software details, and file properties. If this information is not reviewed before
+sharing a file, it may unintentionally expose private information.
+    - To reduce metadata-related privacy risks:
+      - Remove unnecessary personal metadata before sharing files.
+      - Review document and file properties before publishing them.
+      - Use appropriate metadata-removal tools when required.
+      - Avoid unnecessarily exposing location and device information.
+      - Follow organizational policies for handling sensitive files.
+      - Educate users about the information that may be stored within file metadata.
   - Data Analysis
   - Email and Username Tracing
   - Geolocation and Maps
